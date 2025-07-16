@@ -1,0 +1,7 @@
+streamlit
+openai-whisper
+pydub
+requests
+python-dotenv
+Pillow
+torch
